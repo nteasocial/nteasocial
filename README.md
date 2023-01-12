@@ -21,11 +21,11 @@
 ## <p align="center"> - Stats - </p>
 
   <p align="center"><img height="180em" src="https://streak-stats.demolab.com?user=nteasocial&theme=radical&hide_border=true&border_radius=4.7&ring=6DDD35" alt="nteasocial" /></p>
-  <p align="center">
+<!--   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nteasocial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nteasocial&layout=compact&langs_count=7&theme=dark"/>
-  </p>
-<!--   <p align="center"><a href="https://github.com/nteasocial"><img alt="Shivani Y. activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nteasocial&theme=dracula" /></a></p> -->
+  </p> -->
+  <p align="center"><a href="https://github.com/nteasocial"><img alt="Shivani Y. activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nteasocial&theme=dracula" /></a></p>
 
 </a>
 
