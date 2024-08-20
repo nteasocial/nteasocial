@@ -1,6 +1,6 @@
 hi. have a good read ahead. 
 
-- [about me](www.nteasocial.com)
+- [about me](https://www.nteasocial.com)
 - [reading list](https://x.com/nteasocial/status/1737903517875208469)
 - [articles by me](https://nteasocial.substack.com/)
 - [maths and physics glossary](https://nteasocial.substack.com/p/reading-list)
