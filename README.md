@@ -4,6 +4,13 @@ hi. have a good read ahead.
 - [my reading list](https://x.com/nteasocial/status/1737903517875208469)
 - [newsletter](./newsletter.md)
 
-**tech stack:** mern, next.js, redux, golang, django, python, php, typescript, three.js, webgl, networking & os, docker, aws, ci/cd, postgresql, system design
+**tech stack**  
+- **frontend:** mern, next.js, redux, typescript  
+- **backend:** python [fastapi, django], golang, php  
+- **3d & graphics:** three.js, webgl, physics & optimization  
+- **cloud & devops:** aws, docker, ci/cd  
+- **database:** postgresql, redis, mysql  
+- **other:** networking/os, system design  
 
-**design:** figma, ux design & wireframes, sketch
+**design**  
+- figma, ux, wireframes, sketch
