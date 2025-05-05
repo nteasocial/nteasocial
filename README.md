@@ -6,8 +6,8 @@ hi. have a good read ahead.
 
 **tech stack**  
 - **frontend:** mern, next.js, redux, typescript  
-- **backend:** python [fastapi, django], golang, php  
-- **3d & graphics:** three.js, webgl, physics & optimization  
+- **backend:** python [fastapi, django], golang  
+- **3d & graphics:** three.js, webgl, physics & optimization, os  
 - **cloud & devops:** aws, docker, ci/cd  
 - **database:** postgresql, redis, mysql  
 - **other:** networking/os, system design  
